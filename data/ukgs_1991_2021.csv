@@ -1,0 +1,44 @@
+Year,GDP-LO &pound; billion,Population-LO million,Health Care-total &pound; billion,,
+1991,,6.829,0,,
+1992,,6.829,0,,
+1993,,6.844,0,,
+1994,,6.874,0,,
+1995,,6.913,0,,
+1996,,6.974,0,,
+1997,,7.015,6.89,a,982.1810406
+1998,,7.066,7.3,a,1033.116332
+1999,,7.154,6.54,a,914.1738887
+2000,,7.237,6.85,a,946.5248031
+2001,,7.322,7.67,a,1047.527998
+2002,,7.377,8.43,a,1142.740952
+2003,,7.395,9.34,a,1263.015551
+2004,,7.433,10.6,a,1426.072918
+2005,,7.519,11.9,a,1582.657268
+2006,,7.598,12.61,a,1659.647276
+2007,,7.693,12.66,a,1645.651891
+2008,,7.812,14.15,a,1811.315924
+2009,,7.943,15.17,a,1909.857736
+2010,,8.062,18.88,a,2341.850657
+2011,,8.204,19.92,a,2428.083862
+2012,,8.309,20.22,a,2433.505837
+2013,,8.417,20.16,a,2395.152667
+2014,,8.539,21.45,a,2512.003748
+2015,,8.667,21.62,a,2494.519442
+2016,,8.77,22.53,a,2568.985177
+2017,,8.825,23.11,a,2618.696884
+2018,,8.338,23.69,a,2841.208923
+2019,,8.403,24.71,a,2940.616447
+2020,,8.466,0,,
+2021,,0,0,,
+,,,,,
+Legend:,,,,,
+ a - actual outturn,,,,,
+Data Sources for 1991:,,,,,
+GDP: ,www.measuringworth.org/ukgdp/,Measuring Worth - UK GDP,,,
+Spending: ,webarchive.nationalarchives.gov.uk/20130814180755/http://www.archive.official-documents.co.uk/document/cm39/3901/contents.htm,Archived Public Expenditure Statistical Analysis 1998-99,,,
+Debt:  ,obr.uk/data/,OBR Public Finances Databank,,,
+,,,,,
+Data Sources for 2021:,,,,,
+GDP: ,obr.uk/efo/economic-fiscal-outlook-march-2018/,OBR EFO supp. economy tables,,,
+"Spending: <a href=https://www.gov.uk/government/organisations/hm-treasury/series/public-expenditure-statistical-analyses-pesa""",HM Treasury PESA,,,,
+Debt:  ,obr.uk/data/,OBR Public Finances Databank,,,
